@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Name",
+      "email": "name@example.com",
+      "password": "$2b$10$pzCgnYnRWefyHjL6zHaNxOgS1QLwp3Yn45Iudytuq.V6Q02x9bYN6",
+      "role": "student",
+      "created_at": "2026-03-09 03:53:51"
+    },
+    {
+      "id": 2,
+      "name": "Test User",
+      "email": "testuser@example.com",
+      "password": "$2b$10$Dt0MD5b5UHFjr2mW7WyMjeGW1ojEbZ5oWajYbf18NQ3.bvwp8jsyK",
+      "role": "student",
+      "created_at": "2026-03-09 04:42:06"
+    },
+    {
+      "id": 3,
+      "name": "Test Student",
+      "email": "student@test.com",
+      "password": "$2b$10$LNVPpzb3/0MY8pFJxBCieuggDuj.2ZYH6Ayzf9A1qTxWnPX1dhhva",
+      "role": "student",
+      "created_at": "2026-03-09 05:05:53"
+    },
+    {
+      "id": 4,
+      "name": "Browser Test Student",
+      "email": "browser_test@example.com",
+      "password": "$2b$10$oxYzrDtC2MTB17bQ8IN.A.CmHg2v3U0FkzxRjKd3Jt3S7DBhHgnQ2",
+      "role": "student",
+      "created_at": "2026-03-09 05:10:55"
+    },
+    {
+      "id": 5,
+      "name": "chinni",
+      "email": "venkatachinnikrishna660@gmail.com",
+      "password": "$2b$10$Hzvb5PLrRRCSvPjnqIOMUOBNLxtq0gAm7hGcDtDdob6C117Kp0hFe",
+      "role": "admin",
+      "created_at": "2026-03-09 05:24:25"
+    },
+    {
+      "id": 6,
+      "name": "chinni krishna",
+      "email": "vtu26253@veltech.edu.in",
+      "password": "$2b$10$4ZRQu1ZKB9MkbEDol4IIQu0QUhq6/abQQ0gersu17AQQ6suHQ9q26",
+      "role": "student",
+      "created_at": "2026-03-30 03:47:37"
+    },
+    {
+      "id": 7,
+      "name": "Admin",
+      "email": "admin@test.com",
+      "password": "a",
+      "role": "admin",
+      "created_at": "2026-03-30 04:32:01"
+    }
+  ],
+  "exams": [],
+  "questions": [],
+  "results": []
+}
